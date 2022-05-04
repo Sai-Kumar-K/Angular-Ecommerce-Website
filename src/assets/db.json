@@ -1,0 +1,17 @@
+{
+    "usercred":[
+        {
+            "username" : "konkasai@gmailcom",
+            "password" : "Aspire@123."
+        }
+    ],
+
+    "admincred":[
+        {
+            "username" : "Admin@gmail.com",
+            "password" : "Admin@123."
+        }
+    ]
+}
+
+    
